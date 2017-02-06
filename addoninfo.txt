@@ -1,0 +1,12 @@
+"Smeagol Jockey"
+{
+     addonSteamAppID 550            // 550 is the app ID for Left 4 Dead 2
+     addontitle "Smeagol Jockey"
+     addonversion "3"
+     addontagline "Smeagol sounds in L4D2"                // short description
+     addonauthor "Shawn"
+     addonauthorSteamID "furryfan17"
+     addonURL0 "l"                  // where people can download your VPK 
+     addonDescription "Smeagol gets hit by the crossfire from Sauron and Gandalf and is transported into the real world!" 
+     addonContent_Sound 1           // Has Custom Sound  
+}
